@@ -1,0 +1,9 @@
+server: "irc.chat.twitch.tv"
+port: "6667"
+oauth: ""
+streamer_name: ""
+bot_name: ""
+relay_bot_name: "restreambot"
+admins: []
+mods: []
+debug_mode: "true"
